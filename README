@@ -1,4 +1,4 @@
-# Escape Reputation — Raycasting game in Rust 🎮
+# Escape Reputation — Raycasting game en Rust
 
 Pequeño juego estilo raycasting hecho en **Rust**. Recorres un laberinto que simula un hospital, te mueves por pasillos, evitas enemigos y escuchas efectos y música mientras avanzas.
 
