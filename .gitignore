@@ -1,0 +1,30 @@
+# === Rust / Cargo ===
+target/
+**/*.rs.bk
+
+# === Archivos de compilación temporales ===
+*.lock
+Cargo.lock
+
+# === Archivos de sistema ===
+.DS_Store
+Thumbs.db
+
+# === Archivos de depuración ===
+*.pdb
+*.d
+
+# === Archivos generados por IDEs ===
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains (CLion, IntelliJ, etc.)
+.idea/
+
+# === Archivos de logs ===
+*.log
+
+# === Otros posibles ===
+*.tmp
+*.bak
