@@ -1,24 +1,24 @@
-# Escape Reputation — Raycasting game en Rust
+Escape Reputation — Raycasting game en Rust
 
-Pequeño juego estilo raycasting hecho en **Rust**. Recorres un laberinto que simula un hospital, te mueves por pasillos, evitas enemigos y escuchas efectos y música mientras avanzas.
+Pequeño juego estilo raycasting hecho en Rust. Recorres un laberinto que simula un hospital, te mueves por pasillos, evitas enemigos y escuchas efectos y música mientras avanzas.
 
 
-## Requisitos
+Requisitos
 
-- **Rust** (stable) con `cargo`.
+- Rust con `cargo`.
 
-## Tecnologías
+Tecnologías
 
-- **Rust + Cargo**
-- **raylib** (via crate `raylib`)
+- Rust + Cargo
+- raylib (via crate `raylib`)
 - Audio (WAV/MP3), mapa por texto (`maze.txt`)
 
 
-##  Cómo correrlo
+Cómo correrlo
 
 1. Clona el repo y entra a la carpeta del proyecto:
    ```bash
-   git clone <URL-DE-TU-REPO>
+   git clone https://github.com/JPLopez23/Raycasting.git
    cd Raycasting
    ```
 
@@ -28,10 +28,10 @@ Pequeño juego estilo raycasting hecho en **Rust**. Recorres un laberinto que si
    ```
 
 
-## Controles 
+Controles 
 
 > Pueden variar 
-- **W / A / S / D** o **Flechas**: moverte por el mapa
-- **Esc**: salir
-- **L1, L2, L3 / R1, R2, R3** — en caso de jugar con mando, se corresponden con los botones laterales (gatillos y sticks).
+- W / A / S / D o Flechas: moverte por el mapa
+- Esc: salir
+- L1, L2, L3 / R1, R2, R3: en caso de jugar con mando, se corresponden con los botones laterales (gatillos y sticks).
 
